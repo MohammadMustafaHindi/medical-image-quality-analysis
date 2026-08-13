@@ -45,3 +45,16 @@ medical-image-quality-analysis/
 ├── images/
 ├── README.md
 └── .gitignore
+## Visualizations
+
+### Mean Pixel Intensity Distribution
+
+![Mean Pixel Intensity Distribution](images/intensity_distribution.png)
+
+### File Size Distribution
+
+![File Size Distribution](images/file_size_distribution.png)
+
+### Intensity Outliers
+
+![Mean Pixel Intensity Outliers](images/intensity_boxplot.png)
